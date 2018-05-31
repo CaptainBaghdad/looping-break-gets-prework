@@ -7,7 +7,7 @@ loop do
 	break if ans == 'Wingardium Leviosa'
 	end
 	
-	puts 'You passedthe quiz!'
+	puts 'You passed the quiz!'
 end
 
 
